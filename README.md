@@ -32,12 +32,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankrazad&theme=radical&show_icons=true&hide_border=false&icon_color=FF0000&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrazad&theme=radical&hide_border=false&fire=FF0000&ring=FF0000" alt="GitHub Streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amankrazad&theme=radical&show_icons=true&hide_border=false&icon_color=FF0000&include_all_commits=false&count_private=false" alt="GitHub Stats" height="120em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrazad&theme=radical&hide_border=false&fire=FF0000&ring=FF0000" alt="GitHub Streak" height="120em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrazad&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrazad&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="120em"/>
 </div>
 
 ---
